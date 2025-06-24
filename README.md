@@ -1,2 +1,3 @@
-# Weeess
-nope nope
+# 1x4
+basic animation script
+it probably wont work lmk
